@@ -1,0 +1,26 @@
+﻿{  
+	"personas":[  
+		{  
+			"ci":1234567,
+			"nombre":"Andres Pérez",
+			"casado":false,
+			"hijos":[  
+
+			]
+		},
+		{  
+			"ci":7654321,
+			"nombre":"Ramon Lopez",
+			"casado":true,
+			"hijos":[  
+				{  
+					"nombre":"David Rojas",
+					"edad":32				},
+				{  
+					"nombre":"Sonia Candia",
+					"edad":16
+				}
+			]
+		}
+	]
+}
