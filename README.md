@@ -1,15 +1,13 @@
-# compiladores2018
-TRABAJO PRÁCTICO DE COMPILADORES Y LENGUAJES DE BAJO NIVEL
+Tarea 3 - Traducción dirigida por sintaxis - Para el final
 
-Profesor Julio Paciello
+*Profesor: Julio Pacielo*
 
- Integrantes
+**Integrantes**
 
--Andres Maciel
--Wildo Gomez
+    - Wildo Gomez
+    - Andres Maciel
 
-Para compilar:
+**Para compilar**
 
-~$ gcc anlex.c -o anlex
-
-~$ ./anlex fuente.txt
+# gcc traductor. -o traductor
+# ./traductor fuente.txt
